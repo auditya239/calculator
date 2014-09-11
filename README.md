@@ -1,3 +1,3 @@
 calculator
 ==========
-Just a normal calculator
+Just another basic calculator
